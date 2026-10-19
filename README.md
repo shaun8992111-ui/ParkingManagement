@@ -4,7 +4,7 @@
 - Họ và tên: Đào Quang Tùng 
 - Mã sinh viên: 882126033
 - Lớp: QT(02)
-- Nhóm: Nhóm 14 — Thực hiện cá nhân
+- Nhóm: Nhóm 14 
 - Ngày nộp: 19/10/2026
 
 ---
